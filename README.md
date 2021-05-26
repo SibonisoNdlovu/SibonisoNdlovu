@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SibonisoNdlovu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I'm a Javascript and React Developer
 - 📫 How to reach me sibonisow.ndlovu@gmail.com
 
 <!---
